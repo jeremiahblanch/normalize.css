@@ -1,15 +1,14 @@
 {
-  "name": "normalize.css",
+  "name": "normalize.css-NRL_amp",
   "version": "8.0.1",
-  "description": "A modern alternative to CSS resets",
+  "description": "normalize.css optimized for use on NRL.com AMP pages",
   "main": "normalize.css",
   "style": "normalize.css",
   "files": [
     "LICENSE.md",
     "normalize.css"
   ],
-  "repository": "necolas/normalize.css",
+  "repository": "jeremiahblanch/normalize.css",
   "license": "MIT",
-  "bugs": "https://github.com/necolas/normalize.css/issues",
-  "homepage": "https://necolas.github.io/normalize.css"
+  "homepage": "https://github.com/jeremiahblanch/normalize.css"
 }
